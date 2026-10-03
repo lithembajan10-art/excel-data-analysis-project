@@ -26,7 +26,7 @@ This dataset contains 1,000 restaurant transaction line items collected between 
 
 - **Coral Gables** generated $3,093.50 in revenue from 117 transaction lines (2nd-highest volume), but carries the lowest average customer rating (3.7). Drilling into order type shows the issue is concentrated in **Dine-In specifically** (3.6 vs. a 3.9 company-wide Dine-In average), Delivery and Takeaway at that location are in line with the rest of the business.
 - **Seasonality is real and sizeable:** September ($2,575.18) generates roughly **1.8x** February's revenue ($1,403.96), pooled across both years in the dataset. July is the second-weakest month.
-- **The Main category drives ~66% of total revenue** ($17,125.84 of $25,799.45) — a significant concentration in one category.
+- **The Main category drives ~66% of total revenue** ($17,125.84 of $25,799.45), a significant concentration in one category.
 - **NY Strip Steak is the top-revenue item** ($3,496.94) despite selling *fewer units* than the second-place item, BBQ Ribs (106 vs. 113), its lead is price-driven ($32.99 vs. $22.99 average unit price), not volume-driven.
 
 ## Recommendations
