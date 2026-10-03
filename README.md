@@ -1,6 +1,3 @@
-# excel-data-analysis-project
-Excel-based data analysis project using pivot tables and formulas to clean data, identify trends, and build a structured reporting output.
-
 # Restaurant Sales Analysis (Excel)
 
 An end-to-end Excel data analysis project exploring 1,000 transaction-line records from a multi-location restaurant business, built to practice and demonstrate a full analyst workflow, from raw data to a decision-ready dashboard.
