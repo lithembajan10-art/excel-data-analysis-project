@@ -41,4 +41,4 @@ See the `Summary` sheet in the workbook for the full recommendations, each tied 
 
 ## Author
 
-Lithemba Jan — built as a portfolio project to demonstrate practical Excel-based data analysis skills.
+Lithemba Jan - built as a portfolio project to demonstrate practical Excel-based data analysis skills.
